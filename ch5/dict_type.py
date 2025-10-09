@@ -121,3 +121,11 @@ lst = ["name", "age", "city"]
 
 # for key, val in d.items():  # key, value = (key, value) unpacking
 #     print(key, "=>", val)
+
+
+# x, y, *z = 123, 3, 1, 12, 1
+
+# print(z)
+# t = (1, 2, 3)
+# x, y, z = t
+# print(x, y, z)
